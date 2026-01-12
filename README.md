@@ -18,14 +18,13 @@ This is a responsive travel website built using **React**. The website showcases
 ---
 
 ## Screenshots
-
-| Home | Our Services | Travel Moments | Get in Touch |
-|------|-------------|----------------|--------------|
-| ![Home](sec/screenshot/1.png) | ![Our Services](sec/screenshot/2.png) | ![Travel Moments](sec/screenshot/3.png) | ![Get in Touch](sec/screenshot/4.png) |
-
-| Navbar | Mobile Menu | WhatsApp Button |
-|--------|------------|----------------|
-| ![Navbar](sec/screenshot/5.png) | ![Mobile Menu](sec/screenshot/6.png) | ![WhatsApp Button](sec/screenshot/7.png) |
+<img src="./src/screenshot/1.png" alt="Screenshot 3" />
+<img src="./src/screenshot/2.png" alt="Screenshot 3" />
+<img src="./src/screenshot/3.png" alt="Screenshot 3" />
+<img src="./src/screenshot/4.png" alt="Screenshot 3" />
+<img src="./src/screenshot/5.png" alt="Screenshot 3" />
+<img src="./src/screenshot/6.png" alt="Screenshot 3" />
+<img src="./src/screenshot/7.png" alt="Screenshot 3" />
 
 ---
 
