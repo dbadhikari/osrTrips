@@ -1,16 +1,36 @@
-# React + Vite
+# Osr Trips Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a responsive travel website built using **React**. The website showcases travel services, travel moments, and provides a way for users to get in touch with the company.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## React Compiler
+- Design using Tailwind CSS.
+- Social media links (Facebook, YouTube, WhatsApp).
+- Floating WhatsApp contact button.
+- Multiple pages:  
+  - Home  
+  - Our Services  
+  - Travel Moments  
+  - Get in Touch  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Home | Our Services | Travel Moments | Get in Touch |
+|------|-------------|----------------|--------------|
+| ![Home](sec/screenshot/1.png) | ![Our Services](sec/screenshot/2.png) | ![Travel Moments](sec/screenshot/3.png) | ![Get in Touch](sec/screenshot/4.png) |
+
+| Navbar | Mobile Menu | WhatsApp Button |
+|--------|------------|----------------|
+| ![Navbar](sec/screenshot/5.png) | ![Mobile Menu](sec/screenshot/6.png) | ![WhatsApp Button](sec/screenshot/7.png) |
+
+---
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <your-repo-link>
