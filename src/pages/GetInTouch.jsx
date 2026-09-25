@@ -64,7 +64,7 @@ const GetInTouch = () => {
         <div className='text-white   f-full w-1/2'>
           <h1 className='text-4xl my-4'>Find Us</h1>
           <h2 className='text-2xl my-3'>Location</h2>
-          <h3>Kathmandu ,Nepal</h3>
+          <h3>Bishalnagar-5, Kathmandu, Nepal</h3>
           <h2 className='text-2xl my-4'>Contact</h2>
           <h3>Tel: +977-9816940114</h3>
           <h3>Email:  osrtrips@gmail.com</h3>
