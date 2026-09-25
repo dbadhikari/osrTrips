@@ -74,14 +74,7 @@ const GetInTouch = () => {
 
         </div>
         <div className='bg-amber-300 h-full w-1/2'>
-     <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.3846153078416!2d85.32409427552341!3d27.705408725576852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb19a77f1ab301%3A0xb213d09ebce4b3da!2sDillibazar!5e0!3m2!1sen!2snp!4v1768202440662!5m2!1sen!2snp"
-        className="w-full h-full"
-        style={{ border: 0 }}
-        loading="lazy"
-      >
-        
-      </iframe>
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d220.7421096863926!2d85.33785936477072!3d27.721183907409554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb196c4906da23%3A0xd802818622745323!2sP8CQ%2BG53%2C%20Pipal%20Bot%20Marg%2C%20Kathmandu%2C%20Bagmati%20Province%2044616!5e0!3m2!1sen!2snp!4v1790328130290!5m2!1sen!2snp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
         </div>
         
